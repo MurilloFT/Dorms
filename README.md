@@ -2,7 +2,7 @@
 <p align="left">
   👋 Atualmente trabalhando com sistemas multicamadas, desenvolvidos em Delphi 10.4 e FireBird 2.5/3.0.
 <p align="left">
-  📚 Estudando C# || Node.js || React
+  📚 Estudando <img src="https://img.shields.io/badge/-gray?style=for-the-badge&logo=CSharp"> C# || Node.js || React
 </p>
 <br/>
 
