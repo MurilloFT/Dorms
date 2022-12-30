@@ -2,8 +2,8 @@
 <p align="left">
   ⚉ Atualmente trabalhando com sistemas multicamadas, desenvolvidos em Delphi 10.4 e FireBird 2.5/3.0. </br>
   ⚉ Você pode conferir um dos projetos que faço parte e ajudo a desenvolver, acessando : </br>
-  https://onchef.com.br </br>
-  https://sistemaonstore.com.br/
+  <img src="https://sistemaonstore.com.br/wp-content/uploads/2022/01/Logo_onStore_White.png" style="height:25px;" /> https://sistemaonstore.com.br/ </br>
+  <img src="https://onchef.com.br/assets/images/logoblue.png" style="height:25px;" /> https://onchef.com.br
 </p>
 
 ## Estudando 📚
