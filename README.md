@@ -2,7 +2,7 @@
 <p align="left">
   👋 Atualmente trabalhando com sistemas multicamadas, desenvolvidos em Delphi 10.4 e FireBird 2.5/3.0.
 </p>
-<h1 align="left">
+<h1 align="left" font-size=12px>
   📚 Estudando
 </h1>
  <img src="https://img.shields.io/badge/C%23-%230077?style=flat&logo=CSharp&logoColor=white"> 
