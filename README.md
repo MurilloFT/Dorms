@@ -1,7 +1,9 @@
-### Olá, sou Murillo Ferreira Teotônio !!
+### 🙂 Olá, sou Murillo Ferreira Teotônio !!
 <p align="left">
   ⚉ Atualmente trabalhando com sistemas multicamadas, desenvolvidos em Delphi 10.4 e FireBird 2.5/3.0. </br>
-  ⚉ Você pode conferir um dos projetos que faço parte e ajudo a desenvolver, acessando : https://onchef.com.br
+  ⚉ Você pode conferir um dos projetos que faço parte e ajudo a desenvolver, acessando : </br>
+  https://onchef.com.br </br>
+  https://sistemaonstore.com.br/
 </p>
 
 ## Estudando 📚
