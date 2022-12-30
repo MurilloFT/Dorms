@@ -2,21 +2,24 @@
 <p align="left">
   👋 Atualmente trabalhando com sistemas multicamadas, desenvolvidos em Delphi 10.4 e FireBird 2.5/3.0.
 </p>
-<h1 align="left" font-size=5>
-  📚 Estudando
-</h1>
- <img src="https://img.shields.io/badge/C%23-%230077?style=flat&logo=CSharp&logoColor=white"> 
-<br/>
 
-<div align="center"> 
+## Estudando 📚
+
+ <img src="https://img.shields.io/badge/C%23-47114a?style=flat&logo=CSharp" style="height:40px;" /> <!--c# -->
+ <img src="https://img.shields.io/badge/React-489DB5?style=flat&logo=React" style="height:40px;" /> <!--react -->
+ <img src="https://img.shields.io/badge/Node.js-78D162?style=flat&logo=Node.js" style="height:40px;" /> <!-- nodejs -->
+ <img src="https://img.shields.io/badge/TypeScript-122942?style=flat&logo=typescript" style="height:40px;" /> <!-- TypeScript -->
+   
+## Projeto para 2023 ⏳
   
-<h3 align="center">  
-  Projeto para 2023 ⏳
-</h3>
 <p align="left">
-  📚 Aprender Inglês, Node.js, React para me inserir no mercado de programação web.
+  🗸 Inglês <br/> 
+  🗸 Node.js <br/>
+  🗸 React <br/>
+  🗸 Me inserir no mercado de programação web.
 </p>
 
+<div align="center"> 
  <h3 align="center">  
   Social media 👤
  </h3> 
