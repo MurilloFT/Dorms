@@ -5,7 +5,7 @@
 <h1 align="left">
   📚 Estudando
 </h1>
- 
+ <img src="https://img.shields.io/badge/C%23-%230077?style=flat&logo=CSharp&logoColor=white"> 
 <br/>
 
 <div align="center"> 
