@@ -13,7 +13,7 @@
  <img src="https://img.shields.io/badge/Node.js-78D162?style=flat&logo=Node.js" style="height:40px;" /> <!-- nodejs -->
  <img src="https://img.shields.io/badge/TypeScript-122942?style=flat&logo=typescript" style="height:40px;" /> <!-- TypeScript -->
    
-## Metas para 2023 ⏳
+## Metas para 2024 ⏳
   
 <p align="left">
   🗸 Inglês <br/> 
